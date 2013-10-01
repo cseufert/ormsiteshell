@@ -1,0 +1,10 @@
+html
+  head
+    title $title
+    :css
+      * font-family: sans-serif;
+  body
+    .head
+      h1 $title
+    .body $content
+      
