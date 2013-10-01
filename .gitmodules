@@ -1,0 +1,6 @@
+[submodule "lib/phporm"]
+	path = lib/phporm
+	url = C:/Users/Chris/www/phporm
+[submodule "lib/hamle"]
+	path = lib/hamle
+	url = C:/Users/Chris/www/hamle
